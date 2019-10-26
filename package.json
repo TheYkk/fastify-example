@@ -1,0 +1,9 @@
+{
+  "name": "k3-ss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^2.10.0"
+  }
+}
